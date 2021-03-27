@@ -10,8 +10,6 @@ main, footer {
  .container {
    display: flex;
    margin-left: 150px;
-
-
 }
 
  a {
@@ -47,8 +45,7 @@ main, footer {
    position: absolute;
    width: 1400;
    height: 300px;
-
- }
+}
 
 .down {
   color: #FFD700;
@@ -68,7 +65,6 @@ main, footer {
 .menu2 {
   margin-left: 500px;
   top:20px;
-
 }
 
 .contacts2 {
